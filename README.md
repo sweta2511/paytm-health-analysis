@@ -27,5 +27,11 @@ Analyze Paytm’s financial health and risk profile using publicly available fin
 - Pandas
 - yfinance
 
+## Snapshot
+<img width="1376" height="730" alt="image" src="https://github.com/user-attachments/assets/6f8b619b-700a-4d1f-8d7e-71ecc1d8bb4b" />
+
+<img width="1376" height="729" alt="image" src="https://github.com/user-attachments/assets/32d2a916-6974-4573-bf35-2ae937707b81" />
+
+
 ## Conclusion
 While Paytm shows balance sheet strength, sustained profitability and cash flow generation remain key risks to monitor.
